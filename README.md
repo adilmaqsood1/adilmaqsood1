@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,30:8b5cf6,60:ec4899,100:f43f5e&height=180&section=header&text=Adil%20Maqsood&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20AI%20Engineer%20%C2%B7%20Published%20Researcher%20%C2%B7%20Fintech%20Builder&descAlignY=62&descSize=15&descColor=e2e8f0&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8fb5,30:4faacf,60:72c4de,100:a8dcea&height=180&section=header&text=Adil%20Maqsood&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20AI%20Engineer%20%C2%B7%20Published%20Researcher%20%C2%B7%20Fintech%20Builder&descAlignY=62&descSize=15&descColor=e2e8f0&animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -99,10 +99,10 @@ AI Engineering Intern         Phantom Solutions        Jun 2024 – Nov 2024
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=adilmaqsood1&color=6366f1&style=flat-square&label=Profile+Views)
+![Visitors](https://komarev.com/ghpvc/?username=adilmaqsood1&color=4faacf&style=flat-square&label=Profile+Views)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f43f5e,30:ec4899,60:8b5cf6,100:6366f1&height=120&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8dcea,30:72c4de,60:4faacf,100:3a8fb5&height=120&section=footer&animation=fadeIn" width="100%" />
 
 </div>
