@@ -4,10 +4,10 @@
 ### Full Stack AI Engineer · Published Researcher · Fintech Builder
 
 [![Email](https://img.shields.io/badge/Email-adilmaqsood501%40gmail.com-0a192f?style=flat-square&logo=gmail&logoColor=64ffda)](mailto:adilmaqsood501@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a192f?style=flat-square&logo=linkedin&logoColor=64ffda)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-0a192f?style=flat-square&logo=vercel&logoColor=64ffda)](https://portfolio)
-[![Google Scholar](https://img.shields.io/badge/Scholar-6_Papers-0a192f?style=flat-square&logo=googlescholar&logoColor=64ffda)](https://scholar.google.com)
-[![Medium](https://img.shields.io/badge/Medium-Articles-0a192f?style=flat-square&logo=medium&logoColor=64ffda)](https://medium.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a192f?style=flat-square&logo=linkedin&logoColor=64ffda)](https://www.linkedin.com/in/adil-maqsood1/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-0a192f?style=flat-square&logo=vercel&logoColor=64ffda)](https://aiorbitlabs.com/)
+[![Google Scholar](https://img.shields.io/badge/Scholar-6_Papers-0a192f?style=flat-square&logo=googlescholar&logoColor=64ffda)](https://scholar.google.com/citations?hl=en&user=GyhGhKYAAAAJ)
+[![Medium](https://img.shields.io/badge/Medium-Articles-0a192f?style=flat-square&logo=medium&logoColor=64ffda)](https://scholar.google.com/citations?hl=en&user=GyhGhKYAAAAJ)
 
 </div>
 
