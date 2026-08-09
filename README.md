@@ -13,13 +13,9 @@
 
 </div>
 
----
-
 ### About
 
 Full Stack AI Engineer with 3+ years building production-grade AI systems, financial platforms, and LLM-powered automation. Currently leading all engineering at **EK Global Capital** (500+ users). Published researcher with **6 peer-reviewed papers** across AI, IoT, NLP, and Deep Learning.
-
----
 
 ### Tech Stack
 
@@ -52,8 +48,6 @@ Full Stack AI Engineer with 3+ years building production-grade AI systems, finan
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
----
-
 ### Featured Projects
 
 | Project | Description | Stack |
@@ -64,7 +58,6 @@ Full Stack AI Engineer with 3+ years building production-grade AI systems, finan
 | **AI Recruitment System** | LangGraph agent pipeline for resume screening — 80% reduction in screening time | `LangGraph` `FastAPI` `NLP` |
 | **AI-CashOrbit** | Multi-tenant SaaS accounting platform with AI business insights for 50+ businesses | `Django` `PostgreSQL` `LLM` |
 
----
 
 ### Research — 6 Publications
 
@@ -77,7 +70,6 @@ Full Stack AI Engineer with 3+ years building production-grade AI systems, finan
 | 5 | Hybrid Deep Learning Architecture for Salat Posture Detection | JITDETS | 2025 |
 | 6 | Real-Time Detection of Abnormal Volume Price Events in Crypto Markets | SSRN | 2026 |
 
----
 
 ### Experience
 
@@ -89,13 +81,10 @@ Junior Software Engineer      Visionerz Pvt Ltd        Nov 2024 – May 2025
 AI Engineering Intern         Phantom Solutions        Jun 2024 – Nov 2024
 ```
 
----
-
 ### Education
 
 **BS Computer Science** — ILMA University, Karachi `2021–2025` — CGPA 3.39 / 4.0
 
----
 
 <div align="center">
 
